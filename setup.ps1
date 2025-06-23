@@ -62,3 +62,9 @@ winget install JanDeDobbeleer.OhMyPosh
 # #add alias for colorls to your startup script:
 # echo "alias less=bat" >> $HOME/.$(basename $SHELL)rc
 # echo 'alias ls="colorls --gs"' >> $HOME/.$(basename $SHELL)rc
+
+
+# add commands for vagrant installation on hyper v of server and desktop
+# add cmmands for copying PROFILE from github
+# MOre commands to automate (ssh key gen for git, server, desktop instances)
+# test ssh  etc
